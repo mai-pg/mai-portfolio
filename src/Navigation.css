@@ -1,0 +1,29 @@
+@import url(//db.onlinewebfonts.com/c/65ab651cc7cebf7331a4228e830573d1?family=Caviar+Dreams);
+
+@font-face {font-family: "Caviar Dreams"; src: url("//db.onlinewebfonts.com/t/65ab651cc7cebf7331a4228e830573d1.eot"); src: url("//db.onlinewebfonts.com/t/65ab651cc7cebf7331a4228e830573d1.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/65ab651cc7cebf7331a4228e830573d1.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/65ab651cc7cebf7331a4228e830573d1.woff") format("woff"), url("//db.onlinewebfonts.com/t/65ab651cc7cebf7331a4228e830573d1.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/65ab651cc7cebf7331a4228e830573d1.svg#Caviar Dreams") format("svg"); }
+
+.component-navlink {
+font-family: 'CaviarDreamsRegular';
+padding: 15px;
+position: relative;
+font-size: 20px;
+text-align: center;
+}
+
+.app-navlink {
+  text-decoration: none !important;
+  color:#74706D;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.navlink-active {
+  text-decoration: underline !important;
+  text-decoration-color: #ae544f !important;
+}
+
+.app-navlink:hover {
+  color:#74706D;
+  text-decoration: underline !important;
+  text-decoration-color: #ae544f !important;
+}
