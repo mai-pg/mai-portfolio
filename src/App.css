@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.component-navlink {
+font-family: 'Montserrat', sans-serif;
+padding: 15px;
+position: relative;
+font-size: 20px;
+text-align: center;
+}
+
+.app-navlink {
+  text-decoration: none !important;
+  color:#74706D;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.navlink-active {
+  text-decoration: underline !important;
+  text-decoration-color: #ae544f !important;
+}
+
+.app-navlink:hover {
+  color:#74706D;
+  text-decoration: underline !important;
+  text-decoration-color: #ae544f !important;
+}

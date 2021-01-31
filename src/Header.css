@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family:"abril-display-semibold";
+    src:url("https://dafonttop.com/wp-data/a/966/8966/file/Abril_Display_SemiBold.otf") format("woff"),
+    url("https://dafonttop.com/wp-data/a/966/8966/file/Abril_Display_SemiBold.otf") format("opentype"),
+    url("https://dafonttop.com/wp-data/a/966/8966/file/Abril_Display_SemiBold.otf") format("truetype");
+}
+
+.component-header {
+  padding: 15px;
+  position: relative;
+  font-weight: normal;
+  font-family:"abril-display-semibold";
+  font-size: 70px;
+  text-align: center;
+  color: #ae544f;
+}
