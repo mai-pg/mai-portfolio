@@ -1,7 +1,7 @@
 import React, { PureComponent } from "react";
-import Header from "./Header";
-import Navigation from "./Navigation"
-import "./App.css";
+import Header from "../components/Header";
+import Navigation from "../components/Navigation"
+import "../css/App.css";
 
 export default class App extends PureComponent {
   render() {
