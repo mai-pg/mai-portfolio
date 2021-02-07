@@ -3,6 +3,7 @@ import { Route, NavLink, HashRouter } from "react-router-dom";
 import "../css/Navigation.css";
 import Home from "../components/Home";
 import About from "../components/About";
+import Trends from "../components/Trends";
 import Resume from "../components/Resume";
 import Contact from "../components/Contact";
 
@@ -16,16 +17,21 @@ export default class App extends PureComponent {
              |
              <NavLink to="/About" className="app-navlink" activeClassName="navlink-active">About</NavLink>
              |
-             <NavLink to="/Resume" className="app-navlink" activeClassName="navlink-active">Resume</NavLink>
+             <NavLink to="/Trends" className="app-navlink" activeClassName="navlink-active">Trends</NavLink>
              |
+             {/*<NavLink to="/Resume" className="app-navlink" activeClassName="navlink-active">Resume</NavLink>
+             //| */}
              <NavLink to="/Contact" className="app-navlink" activeClassName="navlink-active">Contact</NavLink>
              </div>
+             <hr class="app-hr"/>
              <div className="content">
                <Route path="/Home" component={Home}/>
                <Route path="/About" component={About}/>
-               <Route path="/Resume" component={Resume}/>
+               <Route path="/Trends" component={Trends}/>
+               {/* <Route path="/Resume" component={Resume}/> */}
                <Route path="/Contact" component={Contact}/>
              </div>
+
            </div>
          </HashRouter>
         );
