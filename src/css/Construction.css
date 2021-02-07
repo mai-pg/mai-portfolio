@@ -1,0 +1,9 @@
+.img-reponsive {
+  max-width: 40%;
+  height: auto;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}

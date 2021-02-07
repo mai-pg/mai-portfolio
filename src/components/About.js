@@ -11,7 +11,7 @@ export default class App extends PureComponent {
       <div class="row justify-content-center top-row-buffer">
         <div class="col-sm-4">
           <div class="card">
-            <img src={me} class="img-reponsive" alt="Mai Nguyen" />
+            <img src={me} class="img-fluid" alt="Mai Nguyen" />
             <div class="container">
               <h2>Mai Nguyen</h2>
               <h6>Role: The one doing the real work here</h6>
@@ -27,7 +27,7 @@ export default class App extends PureComponent {
         <div class="row justify-content-center top-buffer">
         <div class="col-sm-4">
           <div class="card">
-            <img src={kiki} class="img-reponsive" alt="Kiki" / >
+            <img src={kiki} class="img-fluid" alt="Kiki" / >
             <div class="container">
               <h2>Kiki</h2>
               <h6>Role: Cat Director</h6>
@@ -37,7 +37,7 @@ export default class App extends PureComponent {
           </div>
         <div class="col-sm-4">
           <div class="card">
-            <img src={coco} class="img-reponsive" alt="Coco"  />
+            <img src={coco} class="img-fluid" alt="Coco"  />
             <div class="container">
               <h2>Coco</h2>
               <h6>Role: Kitty Designer</h6>

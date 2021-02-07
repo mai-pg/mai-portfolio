@@ -25,7 +25,7 @@ export default class App extends PureComponent {
                 <div class="hover-effect">
           <img src={bridal} alt="bridal img" class="img-reponsive" className="portfolio-img" />
           <div class="hover-overlay">
-            <a class="hover-info" href="#/Construction">Bridal Shower Project</a>
+            <a class="hover-info" href="#">Bridal Shower Project</a>
           </div>
           </div>
           </div>
@@ -33,7 +33,7 @@ export default class App extends PureComponent {
                 <div class="hover-effect">
           <img src={brunch_menu} alt="brunch img" class="img-reponsive" className="portfolio-img" />
           <div class="hover-overlay">
-            <a class="hover-info" href="#/Construction">Menu Graphics Image</a>
+            <a class="hover-info" href="#">Menu Graphics Image</a>
           </div>
           </div>
           </div>
@@ -45,7 +45,7 @@ export default class App extends PureComponent {
             <div class="hover-effect">
               <img src={icons} alt="icon img" class="img-reponsive" className="portfolio-img" />
               <div class="hover-overlay">
-                <a class="hover-info" href="#/Construction">SVG Icons</a>
+                <a class="hover-info" href="#">SVG Icons</a>
               </div>
               </div>
             </div>
@@ -53,7 +53,7 @@ export default class App extends PureComponent {
                   <div class="hover-effect">
             <img src={portfolio} alt="portfolio img" class="img-reponsive" className="portfolio-img" />
             <div class="hover-overlay">
-              <a class="hover-info" href="#/Construction">Portfolio Mood Board</a>
+              <a class="hover-info" href="#">Portfolio Mood Board</a>
             </div>
             </div>
             </div>
@@ -61,7 +61,7 @@ export default class App extends PureComponent {
                   <div class="hover-effect">
             <img src={sketch} alt="sketch img" class="img-reponsive" className="portfolio-img" />
             <div class="hover-overlay">
-              <a class="hover-info" href="#/Construction">Sketch Project</a>
+              <a class="hover-info" href="#">Sketch Project</a>
             </div>
             </div>
             </div>

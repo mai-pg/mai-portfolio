@@ -9,3 +9,8 @@
 .top-row-buffer { margin-top:100px; }
 
 .top-buffer { margin-top:20px; }
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
