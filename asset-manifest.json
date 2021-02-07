@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/mai-portfolio/static/css/main.81a377cc.chunk.css",
+    "main.js": "/mai-portfolio/static/js/main.43be767b.chunk.js",
+    "main.js.map": "/mai-portfolio/static/js/main.43be767b.chunk.js.map",
+    "runtime-main.js": "/mai-portfolio/static/js/runtime-main.3f419a6c.js",
+    "runtime-main.js.map": "/mai-portfolio/static/js/runtime-main.3f419a6c.js.map",
+    "static/css/2.658248ec.chunk.css": "/mai-portfolio/static/css/2.658248ec.chunk.css",
+    "static/js/2.c77b0e12.chunk.js": "/mai-portfolio/static/js/2.c77b0e12.chunk.js",
+    "static/js/2.c77b0e12.chunk.js.map": "/mai-portfolio/static/js/2.c77b0e12.chunk.js.map",
+    "static/js/3.3fec5f5d.chunk.js": "/mai-portfolio/static/js/3.3fec5f5d.chunk.js",
+    "static/js/3.3fec5f5d.chunk.js.map": "/mai-portfolio/static/js/3.3fec5f5d.chunk.js.map",
+    "index.html": "/mai-portfolio/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/mai-portfolio/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.81a377cc.chunk.css.map": "/mai-portfolio/static/css/main.81a377cc.chunk.css.map",
+    "static/js/2.c77b0e12.chunk.js.LICENSE.txt": "/mai-portfolio/static/js/2.c77b0e12.chunk.js.LICENSE.txt",
+    "static/media/Bridal_Art.6e8557c9.png": "/mai-portfolio/static/media/Bridal_Art.6e8557c9.png",
+    "static/media/Brunch_Menu.d40ecd01.png": "/mai-portfolio/static/media/Brunch_Menu.d40ecd01.png",
+    "static/media/Icons.d8a77b3f.png": "/mai-portfolio/static/media/Icons.d8a77b3f.png",
+    "static/media/Mai_Nguyen_Resume.ce9ff5f1.png": "/mai-portfolio/static/media/Mai_Nguyen_Resume.ce9ff5f1.png",
+    "static/media/Nutriciency_db.e3c4b50e.png": "/mai-portfolio/static/media/Nutriciency_db.e3c4b50e.png",
+    "static/media/Sketch_Project.9f53d3f4.png": "/mai-portfolio/static/media/Sketch_Project.9f53d3f4.png",
+    "static/media/coco.efb9c7fe.png": "/mai-portfolio/static/media/coco.efb9c7fe.png",
+    "static/media/kiki.cb7d2920.png": "/mai-portfolio/static/media/kiki.cb7d2920.png",
+    "static/media/me.6533ef8c.png": "/mai-portfolio/static/media/me.6533ef8c.png",
+    "static/media/portfolio.f861c090.png": "/mai-portfolio/static/media/portfolio.f861c090.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f419a6c.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.c77b0e12.chunk.js",
+    "static/css/main.81a377cc.chunk.css",
+    "static/js/main.43be767b.chunk.js"
+  ]
+}
