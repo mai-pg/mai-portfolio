@@ -1,7 +1,7 @@
 {
   "short_name": "Portfolio",
   "name": "Portfolio App",
-  "start_url": "./src/components/Home.js",
+  "start_url": "../src/components/Home.js",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
