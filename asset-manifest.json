@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mai-portfolio/static/css/main.81a377cc.chunk.css",
-    "main.js": "/mai-portfolio/static/js/main.86f46220.chunk.js",
-    "main.js.map": "/mai-portfolio/static/js/main.86f46220.chunk.js.map",
+    "main.css": "/mai-portfolio/static/css/main.94d74b2b.chunk.css",
+    "main.js": "/mai-portfolio/static/js/main.182016cc.chunk.js",
+    "main.js.map": "/mai-portfolio/static/js/main.182016cc.chunk.js.map",
     "runtime-main.js": "/mai-portfolio/static/js/runtime-main.3f419a6c.js",
     "runtime-main.js.map": "/mai-portfolio/static/js/runtime-main.3f419a6c.js.map",
     "static/css/2.658248ec.chunk.css": "/mai-portfolio/static/css/2.658248ec.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.3fec5f5d.chunk.js.map": "/mai-portfolio/static/js/3.3fec5f5d.chunk.js.map",
     "index.html": "/mai-portfolio/index.html",
     "static/css/2.658248ec.chunk.css.map": "/mai-portfolio/static/css/2.658248ec.chunk.css.map",
-    "static/css/main.81a377cc.chunk.css.map": "/mai-portfolio/static/css/main.81a377cc.chunk.css.map",
+    "static/css/main.94d74b2b.chunk.css.map": "/mai-portfolio/static/css/main.94d74b2b.chunk.css.map",
     "static/js/2.c77b0e12.chunk.js.LICENSE.txt": "/mai-portfolio/static/js/2.c77b0e12.chunk.js.LICENSE.txt",
     "static/media/Bridal_Art.6e8557c9.png": "/mai-portfolio/static/media/Bridal_Art.6e8557c9.png",
     "static/media/Brunch_Menu.d40ecd01.png": "/mai-portfolio/static/media/Brunch_Menu.d40ecd01.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.3f419a6c.js",
     "static/css/2.658248ec.chunk.css",
     "static/js/2.c77b0e12.chunk.js",
-    "static/css/main.81a377cc.chunk.css",
-    "static/js/main.86f46220.chunk.js"
+    "static/css/main.94d74b2b.chunk.css",
+    "static/js/main.182016cc.chunk.js"
   ]
 }
