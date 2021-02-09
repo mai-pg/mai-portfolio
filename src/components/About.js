@@ -15,7 +15,7 @@ export default class App extends PureComponent {
             <div class="container">
               <h2>Mai Nguyen</h2>
               <h6>Role: The one doing the real work here</h6>
-              <p>Hi! I've Mai (my). I got my Computer Info Systems
+              <p>Hi! I'm Mai (my). I got my Computer Info Systems
               Degree at JMU and I've been working in tech ever since! All of my roles have been more focused
               on back end / devops but I have a passion for transitioning my career towards front end design and implementation. I've done UX design / front end work in
               various of projects and I love the creativity that comes with it!</p>
