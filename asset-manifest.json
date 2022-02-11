@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a2524e51.chunk.css",
-    "main.js": "/portfolio/static/js/main.f68af0f3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f68af0f3.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2073af62.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2073af62.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.9518fbb0.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.9518fbb0.js.map",
     "static/css/2.858c4db3.chunk.css": "/portfolio/static/css/2.858c4db3.chunk.css",
-    "static/js/2.27cb9071.chunk.js": "/portfolio/static/js/2.27cb9071.chunk.js",
-    "static/js/2.27cb9071.chunk.js.map": "/portfolio/static/js/2.27cb9071.chunk.js.map",
+    "static/js/2.aa76321a.chunk.js": "/portfolio/static/js/2.aa76321a.chunk.js",
+    "static/js/2.aa76321a.chunk.js.map": "/portfolio/static/js/2.aa76321a.chunk.js.map",
     "static/js/3.91985b31.chunk.js": "/portfolio/static/js/3.91985b31.chunk.js",
     "static/js/3.91985b31.chunk.js.map": "/portfolio/static/js/3.91985b31.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.858c4db3.chunk.css.map": "/portfolio/static/css/2.858c4db3.chunk.css.map",
     "static/css/main.a2524e51.chunk.css.map": "/portfolio/static/css/main.a2524e51.chunk.css.map",
-    "static/js/2.27cb9071.chunk.js.LICENSE.txt": "/portfolio/static/js/2.27cb9071.chunk.js.LICENSE.txt",
+    "static/js/2.aa76321a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.aa76321a.chunk.js.LICENSE.txt",
     "static/media/Bridal_Art.e726bbeb.png": "/portfolio/static/media/Bridal_Art.e726bbeb.png",
     "static/media/Brunch_Menu.d40ecd01.png": "/portfolio/static/media/Brunch_Menu.d40ecd01.png",
     "static/media/Construction.c28f36db.jpeg": "/portfolio/static/media/Construction.c28f36db.jpeg",
@@ -25,6 +25,9 @@
     "static/media/bean3.66ea7f38.png": "/portfolio/static/media/bean3.66ea7f38.png",
     "static/media/blueberrydrink.94005934.png": "/portfolio/static/media/blueberrydrink.94005934.png",
     "static/media/coco.efb9c7fe.png": "/portfolio/static/media/coco.efb9c7fe.png",
+    "static/media/faceAREarth.84634be9.png": "/portfolio/static/media/faceAREarth.84634be9.png",
+    "static/media/faceEarthWaterColor.65657d9b.png": "/portfolio/static/media/faceEarthWaterColor.65657d9b.png",
+    "static/media/faceWaterColor.d7ca0a4b.png": "/portfolio/static/media/faceWaterColor.d7ca0a4b.png",
     "static/media/kiki.cb7d2920.png": "/portfolio/static/media/kiki.cb7d2920.png",
     "static/media/me.6533ef8c.png": "/portfolio/static/media/me.6533ef8c.png",
     "static/media/mushroomfilter.dfbe66cc.png": "/portfolio/static/media/mushroomfilter.dfbe66cc.png",
@@ -36,13 +39,16 @@
     "static/media/nutriciency_popover.7c907f81.png": "/portfolio/static/media/nutriciency_popover.7c907f81.png",
     "static/media/peonyflower.c93f739b.png": "/portfolio/static/media/peonyflower.c93f739b.png",
     "static/media/pinkdrink.7034a332.png": "/portfolio/static/media/pinkdrink.7034a332.png",
-    "static/media/portfolio.f861c090.png": "/portfolio/static/media/portfolio.f861c090.png"
+    "static/media/portfolio.f861c090.png": "/portfolio/static/media/portfolio.f861c090.png",
+    "static/media/sketch.c57427f8.png": "/portfolio/static/media/sketch.c57427f8.png",
+    "static/media/watercolorFig.89c851cc.png": "/portfolio/static/media/watercolorFig.89c851cc.png",
+    "static/media/watercolorPeony.247c231d.png": "/portfolio/static/media/watercolorPeony.247c231d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9518fbb0.js",
     "static/css/2.858c4db3.chunk.css",
-    "static/js/2.27cb9071.chunk.js",
+    "static/js/2.aa76321a.chunk.js",
     "static/css/main.a2524e51.chunk.css",
-    "static/js/main.f68af0f3.chunk.js"
+    "static/js/main.2073af62.chunk.js"
   ]
 }
