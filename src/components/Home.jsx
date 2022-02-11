@@ -6,6 +6,8 @@ import brunch_menu from "../images/Brunch_Menu.png"
 import icons from "../images/Icons.png"
 import sketch from "../images/Sketch_Project.png"
 import filter from "../images/mushroomfilter.png"
+import ar from "../images/faceAREarth.png"
+import digitalArtFig from "../images/watercolorFig.png"
 import Button from 'react-bootstrap/Button'
 import "../css/Home.css";
 
@@ -24,7 +26,15 @@ export default class App extends PureComponent {
           </div>
           <div class="col-sm-4">
             <div class="hover-effect">
-              <img src={bridal} alt="icon img" class="img-reponsive" className="portfolio-img" />
+              <img src={ar} alt="icon img" class="img-reponsive" className="portfolio-img" />
+              <div class="hover-overlay">
+                <a class="hover-info" href="#/AR">Augmented Reality</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="hover-effect">
+              <img src={digitalArtFig} alt="icon img" class="img-reponsive" className="portfolio-img" />
               <div class="hover-overlay">
                 <a class="hover-info" href="#/ArtWork">Digital Art</a>
               </div>

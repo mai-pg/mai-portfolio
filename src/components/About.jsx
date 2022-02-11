@@ -40,7 +40,7 @@ export default class App extends PureComponent {
             <div class="container">
               <h2>Coco</h2>
               <h6>Role: Kitty Designer</h6>
-              <p>Not the smartest cat, but makes up in cuteness. Will work for food.</p>
+              <p>Not the brightest cat, but makes up in cuteness. Will work for food.</p>
             </div>
             </div>
           </div>

@@ -8,6 +8,7 @@ import Contact from "../components/Contact";
 import Nutriciency from "../components/Nutriciency";
 import Construction from "../components/Construction";
 import ArtWork from "../components/ArtWork";
+import AR from "../components/AR";
 
 export default class App extends PureComponent {
   render() {
@@ -31,6 +32,7 @@ export default class App extends PureComponent {
               <Route path="/Nutriciency" component={Nutriciency} />
               <Route path="/Construction" component={Construction} />
               <Route path="/ArtWork" component={ArtWork} />
+              <Route path="/AR" component={AR} />
             </Switch>
           </div>
         </div>

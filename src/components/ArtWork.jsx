@@ -7,6 +7,9 @@ import blueberrydrink from "../images/blueberrydrink.png";
 import pinkdrink from "../images/pinkdrink.png";
 import mushyhunt from "../images/mushyhunt.png";
 import peonyflower from "../images/peonyflower.png";
+import watercolorFig from "../images/watercolorFig.png";
+import watercolorPeony from "../images/watercolorPeony.png";
+import sketch from "../images/sketch.png";
 import "../css/ArtWork.css"
 
 export default class App extends PureComponent {
@@ -34,6 +37,23 @@ export default class App extends PureComponent {
           <div class="col-sm-4">
             <div class="hover-effect">
               <img src={mushyhunt} alt="mushyhunt img" class="img-reponsive" className="artwork-img" />
+            </div>
+          </div>
+        </div>
+        <div class="row top-buffer">
+          <div class="col-sm-4">
+            <div class="hover-effect">
+              <img src={sketch} alt="sketch img" class="img-reponsive" className="artwork-img" />
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="hover-effect">
+              <img src={watercolorFig} alt="watercolorFig img" class="img-reponsive" className="artwork-img" />
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="hover-effect">
+              <img src={watercolorPeony} alt="watercolorPeony img" class="img-reponsive" className="artwork-img" />
             </div>
           </div>
         </div>
