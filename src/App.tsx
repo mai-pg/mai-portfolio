@@ -25,19 +25,19 @@ function App() {
             <Home />
             <Typography variant="h5" color="White" fontFamily="sans-serif">
               <Link to="/">+home </Link>
-              <Link to="portfolio/about">+about </Link>
-              <Link to="portfolio/resume">+resume </Link>
+              <Link to="/about">+about </Link>
+              <Link to="/resume">+resume </Link>
             </Typography>
           </header>
         </Grid>
         <Grid size={9}>
           <Routes>
-            <Route path="*" Component={Cards} />
-            <Route path="portfolio/about" Component={About} />
-            <Route path="portfolio/resume" Component={Resume} />
-            <Route path="portfolio/AR" Component={ARWork} />
-            <Route path="portfolio/digitalart" Component={DigitalArt} />
-            <Route path="portfolio/nutriciency" Component={Nutriciency} />
+            <Route path="/" Component={Cards} />
+            <Route path="/about" Component={About} />
+            <Route path="/resume" Component={Resume} />
+            <Route path="/AR" Component={ARWork} />
+            <Route path="/digitalart" Component={DigitalArt} />
+            <Route path="/nutriciency" Component={Nutriciency} />
           </Routes>
         </Grid>
       </Grid>

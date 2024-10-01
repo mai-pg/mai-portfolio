@@ -7,19 +7,19 @@ export const Cards = () => {
       title: "Digital Art",
       src: "https://hostedpics.s3.us-east-2.amazonaws.com/greeneye.png",
       description: "",
-      navURL: "portfolio/digitalart",
+      navURL: "digitalart",
     },
     {
       title: "AR Experiment",
       src: "https://hostedpics.s3.us-east-2.amazonaws.com/image.png",
       description: "",
-      navURL: "portfolio/AR",
+      navURL: "/AR",
     },
     {
       title: "Nutriciency Web App",
       src: "https://hostedpics.s3.us-east-2.amazonaws.com/image2.png",
       description: "",
-      navURL: "portfolio/nutriciency",
+      navURL: "/nutriciency",
     },
   ];
 

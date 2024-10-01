@@ -41,6 +41,7 @@ function ARWork() {
           and procreate over the years.
         </Typography>
       </div>
+      <div style={{ paddingTop: "10px" }}>
       <img src={weddinggraphic} alt="weddinggraphic" className="img-fluid" />
       <img src={greeneye} alt="green eyes" className="img-fluid" />
       <img src={pups} alt="puppies wedding" className="img-fluid" />
@@ -56,6 +57,7 @@ function ARWork() {
       <img src={bean1} alt="bean 1" className="img-fluid" />
       <img src={bean2} alt="bean 2" className="img-fluid" />
       <img src={bean3} alt="bean 3" className="img-fluid" />
+      </div>
     </div>
   );
 }
