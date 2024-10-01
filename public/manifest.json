@@ -1,6 +1,6 @@
 {
   "short_name": "Portfolio",
   "name": "Portfolio App",
-  "start_url": "./Index.html",
+  "start_url": "portfolio/src/Index.tsx",
   "display": "standalone"
 }
