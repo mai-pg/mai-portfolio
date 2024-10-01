@@ -13,34 +13,36 @@ function Resume() {
     saveAs(pdfURL, "mai-resume.pdf");
   };
   return (
-    <div
-      className="container overflow-auto"
-      style={{
-        backgroundColor: "rgba(255, 255, 255, 0.05)",
-        borderRadius: "25px",
-        justifyContent: "center",
-      }}
-    >
-      <Button
+    <div style={{ padding: "10px" }}>
+      <div
+        className="container"
         style={{
-          fontSize: "18px",
-          color: "#EA9DFF",
-          fontVariant: "small-caps",
-          borderColor: "#EA9DFF",
-          fontFamily: "sans-serif",
+          backgroundColor: "rgba(255, 255, 255, 0.05)",
+          borderRadius: "25px",
+          justifyContent: "center",
         }}
-        variant="outlined"
-        onClick={handleDownload}
-        startIcon={<DownloadIcon />}
       >
-        Download Resume
-      </Button>
-      <Divider />
-      <img src={resume} />
+        <Button
+          style={{
+            fontSize: "18px",
+            color: "#EA9DFF",
+            fontVariant: "small-caps",
+            borderColor: "#EA9DFF",
+            fontFamily: "sans-serif",
+          }}
+          variant="outlined"
+          onClick={handleDownload}
+          startIcon={<DownloadIcon />}
+        >
+          Download Resume
+        </Button>
+        <Divider />
+        <img src={resume} />
 
-      {/* <Document
+        {/* <Document
     file={'../../../resources/mai-resume.pdf'}
       /> */}
+      </div>
     </div>
   );
 }

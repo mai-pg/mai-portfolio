@@ -30,7 +30,7 @@ function App() {
             </Typography>
           </header>
         </Grid>
-        <Grid size={9}>
+        <Grid size={9} columns={{ xs: 6, sm: 6 }}>
           <Routes>
             <Route path="/" Component={Cards} />
             <Route path="/about" Component={About} />
