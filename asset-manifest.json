@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.447e3b72.css",
-    "main.js": "/portfolio/static/js/main.3eb83a5c.js",
+    "main.js": "/portfolio/static/js/main.a04e6154.js",
     "static/media/watercolorFig.png": "/portfolio/static/media/watercolorFig.89c851cc3061f66a502d.png",
     "static/media/wip-nora.png": "/portfolio/static/media/wip-nora.045961f0aaaf3d70ec0a.png",
     "static/media/rose.png": "/portfolio/static/media/rose.6c633053e2152f1e38c5.png",
@@ -40,10 +40,10 @@
     "static/media/nutriciency_dashboard.png": "/portfolio/static/media/nutriciency_dashboard.b3397f33ce97035e38b8.png",
     "index.html": "/portfolio/index.html",
     "main.447e3b72.css.map": "/portfolio/static/css/main.447e3b72.css.map",
-    "main.3eb83a5c.js.map": "/portfolio/static/js/main.3eb83a5c.js.map"
+    "main.a04e6154.js.map": "/portfolio/static/js/main.a04e6154.js.map"
   },
   "entrypoints": [
     "static/css/main.447e3b72.css",
-    "static/js/main.3eb83a5c.js"
+    "static/js/main.a04e6154.js"
   ]
 }
