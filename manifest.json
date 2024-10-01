@@ -1,0 +1,6 @@
+{
+  "short_name": "Portfolio",
+  "name": "Portfolio App",
+  "start_url": "Portfolio/src/index.tsx",
+  "display": "standalone"
+}
