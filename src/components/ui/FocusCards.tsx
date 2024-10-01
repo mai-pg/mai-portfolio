@@ -28,7 +28,7 @@ export const Cards = () => {
       container
       padding={20}
       rowSpacing={{ sm: 2 }}
-      columnSpacing={{ xs: 4 }}
+      columns={{ xs: 1, sm: 8, md: 12 }}
     >
       {Array.from(cards).map((card, index) => (
         <Grid key={index} size={{ xs: 2, sm: 4, md: 6 }}>

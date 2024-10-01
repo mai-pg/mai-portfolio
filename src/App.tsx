@@ -19,9 +19,9 @@ function App() {
         <ShootingStars />
         <StarsBackground />
       </div>
-      <Grid container columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
+      <Grid container columns={{ xs: 1, sm: 8, md: 12 }}>
         <Grid size={3}>
-          <header style={{ position: "fixed" }}>
+          <header style={{ position: "relative" }}>
             <Home />
             <Typography variant="h5" color="White" fontFamily="sans-serif">
               <Link to="/">+home </Link>

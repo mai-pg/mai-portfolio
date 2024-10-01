@@ -42,21 +42,25 @@ function ARWork() {
         </Typography>
       </div>
       <div style={{ paddingTop: "10px" }}>
-      <img src={weddinggraphic} alt="weddinggraphic" className="img-fluid" />
-      <img src={greeneye} alt="green eyes" className="img-fluid" />
-      <img src={pups} alt="puppies wedding" className="img-fluid" />
-      <img src={randomart} alt="random art" className="img-fluid" />
-      <img src={randombear} alt="random bear tutorial" className="img-fluid" />
-      <img src={rose} alt="rose" className="img-fluid" />
-      <img src={scary} alt="punky gal" className="img-fluid" />
-      <img src={scary2} alt="punky punky gal" className="img-fluid" />
-      <img src={wipnora} alt="WIP - cats" className="img-fluid" />
-      <img src={snifftest} alt="sniff test" className="img-fluid" />
-      <img src={watercolorFig} alt="watercolor fig" className="img-fluid" />
-      <img src={sketch} alt="sketch" className="img-fluid" />
-      <img src={bean1} alt="bean 1" className="img-fluid" />
-      <img src={bean2} alt="bean 2" className="img-fluid" />
-      <img src={bean3} alt="bean 3" className="img-fluid" />
+        <img src={weddinggraphic} alt="weddinggraphic" className="img-fluid" />
+        <img src={greeneye} alt="green eyes" className="img-fluid" />
+        <img src={pups} alt="puppies wedding" className="img-fluid" />
+        <img src={randomart} alt="random art" className="img-fluid" />
+        <img
+          src={randombear}
+          alt="random bear tutorial"
+          className="img-fluid"
+        />
+        <img src={rose} alt="rose" className="img-fluid" />
+        <img src={scary} alt="punky gal" className="img-fluid" />
+        <img src={scary2} alt="punky punky gal" className="img-fluid" />
+        <img src={wipnora} alt="WIP - cats" className="img-fluid" />
+        <img src={snifftest} alt="sniff test" className="img-fluid" />
+        <img src={watercolorFig} alt="watercolor fig" className="img-fluid" />
+        <img src={sketch} alt="sketch" className="img-fluid" />
+        <img src={bean1} alt="bean 1" className="img-fluid" />
+        <img src={bean2} alt="bean 2" className="img-fluid" />
+        <img src={bean3} alt="bean 3" className="img-fluid" />
       </div>
     </div>
   );

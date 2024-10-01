@@ -33,6 +33,7 @@
     "react-image": "^4.1.0",
     "react-img": "^1.0.3",
     "react-pdf": "^9.1.1",
+    "react-responsive": "^10.0.0",
     "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
     "simplex-noise": "^4.0.3",
