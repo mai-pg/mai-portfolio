@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 function AnimationEnd() {
   const [animationFinished, setAnimationFinished] = useState(false);
@@ -9,15 +9,12 @@ function AnimationEnd() {
 
   return (
     <div>
-      <div 
-        className="animatation-end" 
-        onAnimationEnd={handleAnimationEnd}
-      >
+      <div className="animatation-end" onAnimationEnd={handleAnimationEnd}>
         animation
       </div>
       {animationFinished && <div> textarea </div>}
     </div>
   );
-};
+}
 
 export default AnimationEnd;

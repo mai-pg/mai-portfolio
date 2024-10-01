@@ -6,14 +6,20 @@ import resume from "../../../resources/mai-resume.png";
 import "../../css/styles.css";
 
 function Resume() {
-
-    // const handleDownload = () => {
-    //     saveAs('../../resources/mai-resume.pdf', 'mai-resume.pdf');
-    // }
+  // const handleDownload = () => {
+  //     saveAs('../../resources/mai-resume.pdf', 'mai-resume.pdf');
+  // }
   return (
-    <div className="container" >
-    <img src={resume} /> 
-  {/* <Button
+    <div
+      className="container overflow-auto"
+      style={{
+        backgroundColor: "rgba(255, 255, 255, 0.05)",
+        borderRadius: "25px",
+      }}
+    >
+      <div className="container">
+        <img src={resume} />
+        {/* <Button
     variant="contained"
     size="large"
     startIcon={<DownloadIcon />}
@@ -21,10 +27,11 @@ function Resume() {
   >
     Download Resume
   </Button> */}
-  {/* <Document
+        {/* <Document
     file={'../../../resources/mai-resume.pdf'}
       /> */}
-</div>
+      </div>
+    </div>
   );
 }
 
