@@ -17,9 +17,8 @@ function Resume() {
         borderRadius: "25px",
       }}
     >
-      <div className="container">
-        <img src={resume} />
-        {/* <Button
+      <img src={resume} />
+      {/* <Button
     variant="contained"
     size="large"
     startIcon={<DownloadIcon />}
@@ -27,10 +26,9 @@ function Resume() {
   >
     Download Resume
   </Button> */}
-        {/* <Document
+      {/* <Document
     file={'../../../resources/mai-resume.pdf'}
       /> */}
-      </div>
     </div>
   );
 }
