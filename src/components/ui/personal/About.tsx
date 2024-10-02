@@ -33,8 +33,7 @@ function About() {
         />
         <Typography className="body">
           Hello! Thanks for stopping by. I'm Mai! Outside of work, I love to
-          cook, read *cue bragging rights: 55 books since June :O*, play video
-          games, and draw digitally. I also have 3 cats and 2 doggos - yes,
+          cook, read, play video games, and draw digitally. I also have 3 cats and 2 doggos - yes,
           basically a petting zoo. <i>Thanks for stopping by!</i>
         </Typography>
       </div>
