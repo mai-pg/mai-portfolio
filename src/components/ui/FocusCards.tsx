@@ -4,6 +4,12 @@ import CustomCard from "./Cards";
 export const Cards = () => {
   const cards = [
     {
+      title: "Python SMTP SMS Ticket Check",
+      src: "https://hostedpics.s3.us-east-2.amazonaws.com/ren-text.jpeg",
+      description: "",
+      navURL: "/sms-ticket-app",
+    },
+    {
       title: "Digital Art",
       src: "https://hostedpics.s3.us-east-2.amazonaws.com/greeneye.png",
       description: "",

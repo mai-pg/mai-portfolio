@@ -11,6 +11,7 @@ import { Paper, Typography } from "@mui/material";
 import ARWork from "./components/ui/work/AR";
 import Nutriciency from "./components/ui/work/Nutriciency";
 import DigitalArt from "./components/ui/work/DigitalArt";
+import Ticket from "./components/ui/work/SMS-Ticket-Check-App";
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
             <Route path="/AR" Component={ARWork} />
             <Route path="/digitalart" Component={DigitalArt} />
             <Route path="/nutriciency" Component={Nutriciency} />
+            <Route path="/sms-ticket-app" Component={Ticket} />
           </Routes>
         </Grid>
       </Grid>
