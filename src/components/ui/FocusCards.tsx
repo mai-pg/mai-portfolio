@@ -13,7 +13,7 @@ export const Cards = () => {
       title: "Digital Art",
       src: "https://hostedpics.s3.us-east-2.amazonaws.com/greeneye.png",
       description: "",
-      navURL: "digitalart",
+      navURL: "/digitalart",
     },
     {
       title: "AR Experiment",

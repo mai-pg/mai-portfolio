@@ -33,17 +33,9 @@ function Nutriciency() {
           decision on which type of food they had room to take in.
         </Typography>
         <Typography className="body">
-          <b>My Role:</b> I focused more on the back end development and half
-          way through the project, I took over doing the front end development.
-          A lot of the front end was already built out, but as we progressed to
-          further stages, we had to make front end changes to integrate
-          additional customer requirements.
+          <b>My Role:</b> I focused more on the backend development. I took over doing the front end development half way through.
         </Typography>
         <Typography className="body">
-          <b>Outcome:</b> We placed third. We decided not to host our official
-          end product, but the frontend devs got to host their static web page
-          work through JMU. Their frontend app comes with none of our backend
-          work or any new customer requirements.
         </Typography>
         <img src={nutriciency_chart} alt="nutriciency" className="img-fluid" />
         <img src={nutriciency_cart} alt="nutriciency" className="img-fluid" />

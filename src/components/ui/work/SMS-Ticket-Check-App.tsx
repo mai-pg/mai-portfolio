@@ -37,18 +37,16 @@ function ARWork() {
 
         <Typography className="body">
           <b>issue: </b> my friend tried to buy rennassiance fair tickets for a
-          specific day online but they were sold out! no one online was selling
-          their own tickets. the fair's website states that they process refunds
+          specific day online but they were sold out! the fair's website states that they process refunds
           and release the tickets back out for a first come first serve basis.
-          but who can sit there and refresh that page?
         </Typography>
+        <br />
         <br />
         <Typography className="body">
           <b>solution: </b> i implemented a python script using beautifulsoup /
-          smtp / requests modules to check availability of tickets and would
-          send a text message to my phone. i needed it to run on a time interval
+          smtp / requests modules to check the availability of tickets and would
+          send a text message to my phone. it needs to run on a time interval
           so i created an aws lambda script that ran on a schedule.
-          <i>this is currently running - wish her luck!</i>
         </Typography>
       </div>
     </div>
