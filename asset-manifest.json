@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5c74f145.css",
-    "main.js": "/portfolio/static/js/main.35e54204.js",
+    "main.css": "/portfolio/static/css/main.819d360e.css",
+    "main.js": "/portfolio/static/js/main.5d6ef02d.js",
     "static/media/watercolorFig.png": "/portfolio/static/media/watercolorFig.89c851cc3061f66a502d.png",
     "static/media/wip-nora.png": "/portfolio/static/media/wip-nora.045961f0aaaf3d70ec0a.png",
     "static/media/rose.png": "/portfolio/static/media/rose.6c633053e2152f1e38c5.png",
@@ -33,17 +33,16 @@
     "static/media/bean3.png": "/portfolio/static/media/bean3.66ea7f38e8350f9cac6e.png",
     "static/media/bean2.png": "/portfolio/static/media/bean2.52de4c46cbf2ad295451.png",
     "static/media/bean1.png": "/portfolio/static/media/bean1.09aa3f23e98e3c900a96.png",
-    "static/media/mai-resume.png": "/portfolio/static/media/mai-resume.30130ab394c0e6fb4001.png",
     "static/media/nutriciency_popover.png": "/portfolio/static/media/nutriciency_popover.7c907f815df2052b77fe.png",
     "static/media/nutriciency_db.png": "/portfolio/static/media/nutriciency_db.943bfc92d20a97d211eb.png",
     "static/media/nutriciency_cart.png": "/portfolio/static/media/nutriciency_cart.b481450cc0ab6f329c4d.png",
     "static/media/nutriciency_dashboard.png": "/portfolio/static/media/nutriciency_dashboard.b3397f33ce97035e38b8.png",
     "index.html": "/portfolio/index.html",
-    "main.5c74f145.css.map": "/portfolio/static/css/main.5c74f145.css.map",
-    "main.35e54204.js.map": "/portfolio/static/js/main.35e54204.js.map"
+    "main.819d360e.css.map": "/portfolio/static/css/main.819d360e.css.map",
+    "main.5d6ef02d.js.map": "/portfolio/static/js/main.5d6ef02d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c74f145.css",
-    "static/js/main.35e54204.js"
+    "static/css/main.819d360e.css",
+    "static/js/main.5d6ef02d.js"
   ]
 }
