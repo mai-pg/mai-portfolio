@@ -1,15 +1,16 @@
 import Button from "@mui/material/Button";
 import DownloadIcon from "@mui/icons-material/Download";
 import { saveAs } from "file-saver";
-//import { Document } from 'react-pdf';
-import resume from "../../../resources/mai-resume.png";
 import "../../css/styles.css";
 import { Divider } from "@mui/material";
 
+
 function Resume() {
+
+  const pdfURL = "https://hostedpics.s3.us-east-2.amazonaws.com/mai-nguyen_resume.pdf"
+
+
   const handleDownload = () => {
-    const pdfURL =
-      "https://hostedpics.s3.us-east-2.amazonaws.com/mai-resume.pdf";
     saveAs(pdfURL, "mai-resume.pdf");
   };
   return (
@@ -37,11 +38,7 @@ function Resume() {
           Download Resume
         </Button>
         <Divider />
-        <img src={resume} />
-
-        {/* <Document
-    file={'../../../resources/mai-resume.pdf'}
-      /> */}
+        {/* <img src={pdfURL} /> */}
       </div>
     </div>
   );
