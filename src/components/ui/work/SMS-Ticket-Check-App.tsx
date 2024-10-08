@@ -3,7 +3,7 @@ import { Typography } from "@mui/material";
 
 function ARWork() {
   return (
-    <div style={{ paddingTop: "50px" }}>
+    <div style={{ padding: "50px" }}>
       <div
         className="container"
         style={{

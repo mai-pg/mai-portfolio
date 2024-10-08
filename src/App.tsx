@@ -23,7 +23,7 @@ function App() {
   }, []);
   return (
     <div className="min-h-max h-lvh bg-neutral-900 relative w-full overflow-auto">
-      <div style={{ zIndex: -1 }}>
+      <div style={{ zIndex: -1}}>
         <ShootingStars />
         <StarsBackground />
       </div>
