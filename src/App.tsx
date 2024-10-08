@@ -1,3 +1,4 @@
+import React, { useEffect } from "react";
 import { ShootingStars } from "./components/ui/background/shooting-stars";
 import { StarsBackground } from "./components/ui/background/stars-background";
 import Welcome from "./components/ui/Welcome";
@@ -12,8 +13,14 @@ import ARWork from "./components/ui/work/AR";
 import Nutriciency from "./components/ui/work/Nutriciency";
 import DigitalArt from "./components/ui/work/DigitalArt";
 import Ticket from "./components/ui/work/SMS-Ticket-Check-App";
+import tagManager from "./resources/analytics/google-analytics";
+
+tagManager()
 
 function App() {
+  useEffect(() => {
+    window.dataLayer = window.dataLayer || [];
+  }, []);
   return (
     <div className="min-h-max h-lvh bg-neutral-900 relative w-full overflow-auto">
       <div style={{ zIndex: -1 }}>

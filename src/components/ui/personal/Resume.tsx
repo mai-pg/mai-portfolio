@@ -18,6 +18,7 @@ function Resume() {
       <div
         className="container"
         style={{
+          display: "flex",
           backgroundColor: "rgba(255, 255, 255, 0.05)",
           borderRadius: "25px",
           justifyContent: "center",
